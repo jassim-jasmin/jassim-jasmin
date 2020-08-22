@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://github.com/jassim-jasmin/jassim-jasmin/blob/master/gif/sharingan.gif" width="27px">
   <br><br>
@@ -15,10 +13,9 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2020 goal</b></summary>
-  I want to improve my logical and analytical skill.<br> Want to try new technologies.
-  <br>Help those who need.
-  <br>Grow with colleagues
+  <summary><b>:telescope: status</b></summary>
+  - 🔭 I’m currently working on NLP
+  - 🌱 I’m currently learning ML
 </details>
 
 <!--
