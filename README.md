@@ -15,6 +15,7 @@
 <details>
   <summary><b>:telescope: status</b></summary>
    🔭 I’m currently working on NLP<br>
+   🔭 I’m currently working on unit testing<br>
    🌱 I’m currently learning ML
 </details>
 
