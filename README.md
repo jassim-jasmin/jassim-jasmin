@@ -6,7 +6,7 @@
     <br>I like to solve problems.
     <br>I constantly seek for new possibilities.
       <br><em>Doing same thing is boring.</em>
-    <br>Those who cannot acknowledge there true self... eventually fail.<br><br>
+    <br>No single thing is perfect by itself. That's why we are born to attract other things to make up for what we lack.<br><br>
     <img src="https://github.com/jassim-jasmin/jassim-jasmin/blob/master/gif/red_white_moon.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/jassim_jasmin">Twitter</a>
   </samp>
